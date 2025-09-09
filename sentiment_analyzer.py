@@ -374,7 +374,7 @@ def main():
     st.markdown("""
     <div style='text-align: center; color: #666666;'>
         <p>Built with ❤️ using Python, Streamlit, and scikit-learn</p>
-        <p>📧 Contact: akankshaakawale.com | 🔗 GitHub: github.com/akanksha-2104</p>
+        <p>📧 Contact: akankshaakawale@gmail.com | 🔗 GitHub: github.com/akanksha-2104</p>
     </div>
     """, unsafe_allow_html=True)
 
