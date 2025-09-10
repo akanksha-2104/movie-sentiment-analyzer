@@ -1,5 +1,4 @@
 # sentiment_analyzer.py
-# Main application file - this is your complete web app
 
 import streamlit as st
 import pandas as pd
